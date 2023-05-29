@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+.Container {
+  /* height: 90vh; */
+  width: 100%;
+}
+
+.slideImg {
+  height: 92vh;
+  width: 100%;
+}
